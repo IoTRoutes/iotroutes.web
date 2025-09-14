@@ -11,6 +11,7 @@ The platform is built on a set of pillars offering flexibility and power, includ
   - Scheduled jobs allow for deferred processing such as interfacing with other systems or generating statistics and reports.
 
 **Main benefits**
+
 Scalability and high availability
 Integrated security and robust access control
 Seamless integration with other systems
