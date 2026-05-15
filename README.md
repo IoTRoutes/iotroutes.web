@@ -12,7 +12,7 @@ The platform is built on a set of pillars offering flexibility and power, includ
   - Configurable message lifecycle for efficient message tracking and classification.
   - Command board simplifies device control.
   - Scheduled jobs allow for deferred processing such as interfacing with other systems or generating statistics and reports.
-  - **AI Integrated** Layer : Workflow Action powered by AI, Data analysis with LLM, AI Chat Assistant
+  - **AI Integrated** Layer : Workflow Actions powered by AI, Data analysis with LLM, AI Chat Assistant
 
 **Main benefits**
 
